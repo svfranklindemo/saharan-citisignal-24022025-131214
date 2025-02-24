@@ -1,1 +1,19 @@
-
+{
+    "mappings": [
+      "/content/saharan/saharan-2025-2-24-18-42-10/:/",
+      "/content/saharan/saharan-2025-2-24-18-42-10/configuration:/.helix/config.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/metadata:/metadata.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/configs:/configs.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/configs-stage:/configs-stage.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/configs-dev:/configs-dev.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/redirects:/redirects.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/placeholders:/placeholders.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/products/recommended-products:/products/recommended-products.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/saharan/saharan-2025-2-24-18-42-10/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/saharan/saharan-2025-2-24-18-42-10",
+      "/content/dam/citisignal/images/products/"
+    ]
+}
